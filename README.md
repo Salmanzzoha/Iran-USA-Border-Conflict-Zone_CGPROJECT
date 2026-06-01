@@ -34,14 +34,6 @@ A dramatic **nighttime military border standoff** simulation built using **OpenG
 
 ### 📁 Project Structure
 
----
-
-### 🖼️ Screenshots
-
-
-
-
----
 
 ### 🛠️ Technologies Used
 
