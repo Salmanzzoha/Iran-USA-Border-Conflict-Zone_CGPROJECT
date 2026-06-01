@@ -1,4 +1,4 @@
-# 🇺🇸 Iran–USA Border Conflict Zone: 2D Computer Graphics Scene
+# Iran–USA Border Conflict Zone: 2D Computer Graphics Scene
 
 **Computer Graphics Project | Spring 2026**  
 **American International University-Bangladesh (AIUB)**
